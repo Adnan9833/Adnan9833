@@ -15,3 +15,9 @@ Country = "🇮🇳"
 <h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
 <br>
 <br>
+  
+----
+![](https://github-readme-stats.vercel.app/api?username=TheZatch47&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheZatch47&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheZatch47&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+----
