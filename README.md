@@ -15,7 +15,3 @@ Country = "🇮🇳"
 <h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
 <br>
 <br>
-  
-----
-![](https://github-readme-stats.vercel.app/api?username=Radhak8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Radhak8&theme=dark&hide_border=false)<br/>
